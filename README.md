@@ -1,4 +1,21 @@
 # ABB Robo Challenge 2022
+
+This is my first time competing on ABB Robo Challenge, as part of the team of three. With minimal experience in programming in ABB Robot Studio, we dove into an intensive study of the software by watching tutorials and delving into its features. As we gained a solid foundation, we began to construct our solution and explore the full capabilities of ABB Studio.
+
+## Challenges we ran into
+
+Just a little collection of problems:
+
+Robot Studio did not operate on the third computer
+Complex movements of the robot arm their syncronization proved to be a significant challenge
+Optimizing the solution and lessen the number of equations for arms movements
+Sleep deprivation ;)
+
+## Accomplishments that we're proud of
+
+## What we learned
+The hackaton was a challenging yet rewarding experience. We learned about ABB Robot Studio, but also about team spirit! :sparkling_heart
+
 ## Project: YuMI Palletizing :mechanical_arm:
 
 As part of the team of three, I participated in this hackathon project. First, we had to learn about the ABB Robot Studio program and watch the tutorials, and only then did we start the task.The goal was to implement an application in which the YuMI robot performs the palletizing process. The robot is located in a working environment that includes a ramp with boxes that need to be packed on a pallet, as well as three different box sizes. Additionally, there is a pallet on which the corresponding boxes must be arranged, a place to test the boxes for the presence of metal, and a place to store boxes in which metal presence is detected.
@@ -38,15 +55,5 @@ It is necessary to make a simulation of the application in the ABB Robot Studio 
 ### Additional Features
 Before and after the end of palletizing, it is necessary to set the RobotActive digital output signal to a logical low level, as a signal to the operator that he can pick up the packed pallet or to be able to place an empty pallet for a new palletizing cycle.
 Also, it is necessary to enable the user to confirm whether the palette is empty and ready for a new palletizing cycle using the Teach Pendant functionality.
-
-
-We learned about ABB Robot Studio, but also about team spirit! :sparkling_heart
-
-
-
-
-
-
-
 
 
