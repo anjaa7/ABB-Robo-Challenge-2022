@@ -8,7 +8,7 @@ This repository contains the code for a hackathon project developed by a team of
 ### Pallet Dimensions
 The dimensions of the pallet on which the corresponding boxes should be arranged are (W × D) = (100 × 200mm). 5 boxes of each type are available.
 
-User Input
+### User Input
 The user has the option to choose whether they want to pack one, two or all three types of boxes in the pallet using the Teach Pendant. To realize this functionality it is necessary to use built-in functions TPReadFK, TPReadNum and TPWrite.
 
 ### Box Types and Dimensions
