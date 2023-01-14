@@ -6,10 +6,10 @@ This is my first time competing on ABB Robo Challenge, as part of the team of th
 
 Just a little collection of problems:
 
-Robot Studio did not operate on the third computer
-Complex movements of the robot arm their syncronization proved to be a significant challenge
-Optimizing the solution and lessen the number of equations for arms movements
-Sleep deprivation ;)
+ * Robot Studio did not operate on the third computer
+ * Complex movements of the robot arm their syncronization proved to be a significant challenge
+ * Optimizing the solution and lessen the number of equations for arms movements
+ * Sleep deprivation ;)
 
 ## Accomplishments that we're proud of
 
