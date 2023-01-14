@@ -13,8 +13,11 @@ Just a little collection of problems:
 
 ## Accomplishments that we're proud of
 
+We have configured most of robots arm paths successfully from scratch and implemented functions that operate with them. Robot was able to grab an object successfully and put it in the pallete. 
+
 ## What we learned
-The hackaton was a challenging yet rewarding experience. We learned about ABB Robot Studio, but also about team spirit! :sparkling_heart
+
+We learned some new ABB Robot Studio funtionalities, as well as how to split tasks efficiently and keep team spirit! :sparkling_heart
 
 ## Project: YuMI Palletizing :mechanical_arm:
 
