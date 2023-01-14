@@ -17,7 +17,7 @@ We have configured most of robot's arm paths successfully from scratch and imple
 
 ## What we learned
 
-We learned some new ABB Robot Studio funtionalities, as well as how to devide tasks to maximize efficiency and keep team spirit! :sparkling_heart
+We learned some new ABB Robot Studio funtionalities, as well as how to devide tasks to maximize efficiency and keep team spirit! :sparkling_heart:
 
 ## Project: YuMI Palletizing :mechanical_arm:
 
