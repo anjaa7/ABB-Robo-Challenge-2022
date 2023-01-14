@@ -1,6 +1,6 @@
-# ABB Robo Challenge 2022
+# YuMI Robot Hackathon 2022
 
-This is my first time competing on ABB Robo Challenge, as part of the team of three. With minimal experience in programming in ABB Robot Studio, we dove into an intensive study of the software by watching tutorials and delving into its features. As we gained a solid foundation, we began to construct our solution and explore the full capabilities of ABB Studio.
+This is my first time competing in this challenge, as part of the team of three. With minimal experience in programming in ABB Robot Studio, we dove into an intensive study of the software by watching tutorials and delving into its features. As we gained a solid foundation, we began to construct our solution and explore the full capabilities of ABB Studio.
 
 ## Challenges we ran into
 
