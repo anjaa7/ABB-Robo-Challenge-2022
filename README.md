@@ -21,7 +21,7 @@ We learned some new ABB Robot Studio funtionalities, as well as how to devide ta
 
 ## Project: YuMI Palletizing :mechanical_arm:
 
-As part of the team of three, I participated in this hackathon project. First, we had to learn about the ABB Robot Studio program and watch the tutorials, and only then did we start the task.The goal was to implement an application in which the YuMI robot performs the palletizing process. The robot is located in a working environment that includes a ramp with boxes that need to be packed on a pallet, as well as three different box sizes. Additionally, there is a pallet on which the corresponding boxes must be arranged, a place to test the boxes for the presence of metal, and a place to store boxes in which metal presence is detected.
+The goal was to implement an application in which the YuMI robot performs the palletizing process. The robot is located in a working environment that includes a ramp with boxes that need to be packed on a pallet, as well as three different box sizes. Additionally, there is a pallet on which the corresponding boxes must be arranged, a place to test the boxes for the presence of metal, and a place to store boxes in which metal presence is detected.
 
 <p align="center" width="100%">
  <img width="400" alt="image" src="YuMI.png">
