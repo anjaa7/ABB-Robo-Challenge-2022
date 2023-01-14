@@ -13,7 +13,7 @@ Just a little collection of problems:
 
 ## Accomplishments that we're proud of
 
-We have configured most of robots arm paths successfully from scratch and implemented functions that operate with them. Robot was able to grab an object successfully and put it in the pallete. 
+We have configured most of robot's arm paths successfully from scratch and implemented functions that operate with them. Robot was able to grab an object successfully and put it in the pallete. 
 
 ## What we learned
 
