@@ -3,7 +3,7 @@
 
 This repository contains the code for a hackathon project developed by a team of three,  where the goal was to implement an application in which the YuMI robot performs the palletizing process. The robot is located in a working environment that includes a ramp with boxes that need to be packed on a pallet, as well as three different box sizes. Additionally, there is a pallet on which the corresponding boxes must be arranged, a place to test the boxes for the presence of metal, and a place to store boxes in which metal presence is detected.
 
-<img src="YuMI.png" width="240" />   
+<img src="YuMI.png" width="300" />   
 
 ### Pallet Dimensions
 The dimensions of the pallet on which the corresponding boxes should be arranged are (W × D) = (100 × 200mm). 5 boxes of each type are available.
